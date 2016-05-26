@@ -73,149 +73,149 @@ require('unicode-2.0.14/properties/Bidi_Mirrored/regex');
 
 require('unicode-2.0.14/categories').get(codePoint); // lookup map
 
-require('unicode-2.0.14/categories/C/code-points');
-require('unicode-2.0.14/categories/C/symbols');
-require('unicode-2.0.14/categories/C/regex');
+require('unicode-2.0.14/categories/Cased_Letter/code-points');
+require('unicode-2.0.14/categories/Cased_Letter/symbols');
+require('unicode-2.0.14/categories/Cased_Letter/regex');
 
-require('unicode-2.0.14/categories/Cc/code-points');
-require('unicode-2.0.14/categories/Cc/symbols');
-require('unicode-2.0.14/categories/Cc/regex');
+require('unicode-2.0.14/categories/Close_Punctuation/code-points');
+require('unicode-2.0.14/categories/Close_Punctuation/symbols');
+require('unicode-2.0.14/categories/Close_Punctuation/regex');
 
-require('unicode-2.0.14/categories/Cf/code-points');
-require('unicode-2.0.14/categories/Cf/symbols');
-require('unicode-2.0.14/categories/Cf/regex');
+require('unicode-2.0.14/categories/Connector_Punctuation/code-points');
+require('unicode-2.0.14/categories/Connector_Punctuation/symbols');
+require('unicode-2.0.14/categories/Connector_Punctuation/regex');
 
-require('unicode-2.0.14/categories/Cn/code-points');
-require('unicode-2.0.14/categories/Cn/symbols');
-require('unicode-2.0.14/categories/Cn/regex');
+require('unicode-2.0.14/categories/Control/code-points');
+require('unicode-2.0.14/categories/Control/symbols');
+require('unicode-2.0.14/categories/Control/regex');
 
-require('unicode-2.0.14/categories/Co/code-points');
-require('unicode-2.0.14/categories/Co/symbols');
-require('unicode-2.0.14/categories/Co/regex');
+require('unicode-2.0.14/categories/Currency_Symbol/code-points');
+require('unicode-2.0.14/categories/Currency_Symbol/symbols');
+require('unicode-2.0.14/categories/Currency_Symbol/regex');
 
-require('unicode-2.0.14/categories/Cs/code-points');
-require('unicode-2.0.14/categories/Cs/symbols');
-require('unicode-2.0.14/categories/Cs/regex');
+require('unicode-2.0.14/categories/Dash_Punctuation/code-points');
+require('unicode-2.0.14/categories/Dash_Punctuation/symbols');
+require('unicode-2.0.14/categories/Dash_Punctuation/regex');
 
-require('unicode-2.0.14/categories/L/code-points');
-require('unicode-2.0.14/categories/L/symbols');
-require('unicode-2.0.14/categories/L/regex');
+require('unicode-2.0.14/categories/Decimal_Number/code-points');
+require('unicode-2.0.14/categories/Decimal_Number/symbols');
+require('unicode-2.0.14/categories/Decimal_Number/regex');
 
-require('unicode-2.0.14/categories/LC/code-points');
-require('unicode-2.0.14/categories/LC/symbols');
-require('unicode-2.0.14/categories/LC/regex');
+require('unicode-2.0.14/categories/Enclosing_Mark/code-points');
+require('unicode-2.0.14/categories/Enclosing_Mark/symbols');
+require('unicode-2.0.14/categories/Enclosing_Mark/regex');
 
-require('unicode-2.0.14/categories/Ll/code-points');
-require('unicode-2.0.14/categories/Ll/symbols');
-require('unicode-2.0.14/categories/Ll/regex');
+require('unicode-2.0.14/categories/Format/code-points');
+require('unicode-2.0.14/categories/Format/symbols');
+require('unicode-2.0.14/categories/Format/regex');
 
-require('unicode-2.0.14/categories/Lm/code-points');
-require('unicode-2.0.14/categories/Lm/symbols');
-require('unicode-2.0.14/categories/Lm/regex');
+require('unicode-2.0.14/categories/Letter/code-points');
+require('unicode-2.0.14/categories/Letter/symbols');
+require('unicode-2.0.14/categories/Letter/regex');
 
-require('unicode-2.0.14/categories/Lo/code-points');
-require('unicode-2.0.14/categories/Lo/symbols');
-require('unicode-2.0.14/categories/Lo/regex');
+require('unicode-2.0.14/categories/Letter_Number/code-points');
+require('unicode-2.0.14/categories/Letter_Number/symbols');
+require('unicode-2.0.14/categories/Letter_Number/regex');
 
-require('unicode-2.0.14/categories/Lt/code-points');
-require('unicode-2.0.14/categories/Lt/symbols');
-require('unicode-2.0.14/categories/Lt/regex');
+require('unicode-2.0.14/categories/Line_Separator/code-points');
+require('unicode-2.0.14/categories/Line_Separator/symbols');
+require('unicode-2.0.14/categories/Line_Separator/regex');
 
-require('unicode-2.0.14/categories/Lu/code-points');
-require('unicode-2.0.14/categories/Lu/symbols');
-require('unicode-2.0.14/categories/Lu/regex');
+require('unicode-2.0.14/categories/Lowercase_Letter/code-points');
+require('unicode-2.0.14/categories/Lowercase_Letter/symbols');
+require('unicode-2.0.14/categories/Lowercase_Letter/regex');
 
-require('unicode-2.0.14/categories/M/code-points');
-require('unicode-2.0.14/categories/M/symbols');
-require('unicode-2.0.14/categories/M/regex');
+require('unicode-2.0.14/categories/Mark/code-points');
+require('unicode-2.0.14/categories/Mark/symbols');
+require('unicode-2.0.14/categories/Mark/regex');
 
-require('unicode-2.0.14/categories/Mc/code-points');
-require('unicode-2.0.14/categories/Mc/symbols');
-require('unicode-2.0.14/categories/Mc/regex');
+require('unicode-2.0.14/categories/Math_Symbol/code-points');
+require('unicode-2.0.14/categories/Math_Symbol/symbols');
+require('unicode-2.0.14/categories/Math_Symbol/regex');
 
-require('unicode-2.0.14/categories/Me/code-points');
-require('unicode-2.0.14/categories/Me/symbols');
-require('unicode-2.0.14/categories/Me/regex');
+require('unicode-2.0.14/categories/Modifier_Letter/code-points');
+require('unicode-2.0.14/categories/Modifier_Letter/symbols');
+require('unicode-2.0.14/categories/Modifier_Letter/regex');
 
-require('unicode-2.0.14/categories/Mn/code-points');
-require('unicode-2.0.14/categories/Mn/symbols');
-require('unicode-2.0.14/categories/Mn/regex');
+require('unicode-2.0.14/categories/Modifier_Symbol/code-points');
+require('unicode-2.0.14/categories/Modifier_Symbol/symbols');
+require('unicode-2.0.14/categories/Modifier_Symbol/regex');
 
-require('unicode-2.0.14/categories/N/code-points');
-require('unicode-2.0.14/categories/N/symbols');
-require('unicode-2.0.14/categories/N/regex');
+require('unicode-2.0.14/categories/Nonspacing_Mark/code-points');
+require('unicode-2.0.14/categories/Nonspacing_Mark/symbols');
+require('unicode-2.0.14/categories/Nonspacing_Mark/regex');
 
-require('unicode-2.0.14/categories/Nd/code-points');
-require('unicode-2.0.14/categories/Nd/symbols');
-require('unicode-2.0.14/categories/Nd/regex');
+require('unicode-2.0.14/categories/Number/code-points');
+require('unicode-2.0.14/categories/Number/symbols');
+require('unicode-2.0.14/categories/Number/regex');
 
-require('unicode-2.0.14/categories/Nl/code-points');
-require('unicode-2.0.14/categories/Nl/symbols');
-require('unicode-2.0.14/categories/Nl/regex');
+require('unicode-2.0.14/categories/Open_Punctuation/code-points');
+require('unicode-2.0.14/categories/Open_Punctuation/symbols');
+require('unicode-2.0.14/categories/Open_Punctuation/regex');
 
-require('unicode-2.0.14/categories/No/code-points');
-require('unicode-2.0.14/categories/No/symbols');
-require('unicode-2.0.14/categories/No/regex');
+require('unicode-2.0.14/categories/Other/code-points');
+require('unicode-2.0.14/categories/Other/symbols');
+require('unicode-2.0.14/categories/Other/regex');
 
-require('unicode-2.0.14/categories/P/code-points');
-require('unicode-2.0.14/categories/P/symbols');
-require('unicode-2.0.14/categories/P/regex');
+require('unicode-2.0.14/categories/Other_Letter/code-points');
+require('unicode-2.0.14/categories/Other_Letter/symbols');
+require('unicode-2.0.14/categories/Other_Letter/regex');
 
-require('unicode-2.0.14/categories/Pc/code-points');
-require('unicode-2.0.14/categories/Pc/symbols');
-require('unicode-2.0.14/categories/Pc/regex');
+require('unicode-2.0.14/categories/Other_Number/code-points');
+require('unicode-2.0.14/categories/Other_Number/symbols');
+require('unicode-2.0.14/categories/Other_Number/regex');
 
-require('unicode-2.0.14/categories/Pd/code-points');
-require('unicode-2.0.14/categories/Pd/symbols');
-require('unicode-2.0.14/categories/Pd/regex');
+require('unicode-2.0.14/categories/Other_Punctuation/code-points');
+require('unicode-2.0.14/categories/Other_Punctuation/symbols');
+require('unicode-2.0.14/categories/Other_Punctuation/regex');
 
-require('unicode-2.0.14/categories/Pe/code-points');
-require('unicode-2.0.14/categories/Pe/symbols');
-require('unicode-2.0.14/categories/Pe/regex');
+require('unicode-2.0.14/categories/Other_Symbol/code-points');
+require('unicode-2.0.14/categories/Other_Symbol/symbols');
+require('unicode-2.0.14/categories/Other_Symbol/regex');
 
-require('unicode-2.0.14/categories/Po/code-points');
-require('unicode-2.0.14/categories/Po/symbols');
-require('unicode-2.0.14/categories/Po/regex');
+require('unicode-2.0.14/categories/Paragraph_Separator/code-points');
+require('unicode-2.0.14/categories/Paragraph_Separator/symbols');
+require('unicode-2.0.14/categories/Paragraph_Separator/regex');
 
-require('unicode-2.0.14/categories/Ps/code-points');
-require('unicode-2.0.14/categories/Ps/symbols');
-require('unicode-2.0.14/categories/Ps/regex');
+require('unicode-2.0.14/categories/Private_Use/code-points');
+require('unicode-2.0.14/categories/Private_Use/symbols');
+require('unicode-2.0.14/categories/Private_Use/regex');
 
-require('unicode-2.0.14/categories/S/code-points');
-require('unicode-2.0.14/categories/S/symbols');
-require('unicode-2.0.14/categories/S/regex');
+require('unicode-2.0.14/categories/Punctuation/code-points');
+require('unicode-2.0.14/categories/Punctuation/symbols');
+require('unicode-2.0.14/categories/Punctuation/regex');
 
-require('unicode-2.0.14/categories/Sc/code-points');
-require('unicode-2.0.14/categories/Sc/symbols');
-require('unicode-2.0.14/categories/Sc/regex');
+require('unicode-2.0.14/categories/Separator/code-points');
+require('unicode-2.0.14/categories/Separator/symbols');
+require('unicode-2.0.14/categories/Separator/regex');
 
-require('unicode-2.0.14/categories/Sk/code-points');
-require('unicode-2.0.14/categories/Sk/symbols');
-require('unicode-2.0.14/categories/Sk/regex');
+require('unicode-2.0.14/categories/Space_Separator/code-points');
+require('unicode-2.0.14/categories/Space_Separator/symbols');
+require('unicode-2.0.14/categories/Space_Separator/regex');
 
-require('unicode-2.0.14/categories/Sm/code-points');
-require('unicode-2.0.14/categories/Sm/symbols');
-require('unicode-2.0.14/categories/Sm/regex');
+require('unicode-2.0.14/categories/Spacing_Mark/code-points');
+require('unicode-2.0.14/categories/Spacing_Mark/symbols');
+require('unicode-2.0.14/categories/Spacing_Mark/regex');
 
-require('unicode-2.0.14/categories/So/code-points');
-require('unicode-2.0.14/categories/So/symbols');
-require('unicode-2.0.14/categories/So/regex');
+require('unicode-2.0.14/categories/Surrogate/code-points');
+require('unicode-2.0.14/categories/Surrogate/symbols');
+require('unicode-2.0.14/categories/Surrogate/regex');
 
-require('unicode-2.0.14/categories/Z/code-points');
-require('unicode-2.0.14/categories/Z/symbols');
-require('unicode-2.0.14/categories/Z/regex');
+require('unicode-2.0.14/categories/Symbol/code-points');
+require('unicode-2.0.14/categories/Symbol/symbols');
+require('unicode-2.0.14/categories/Symbol/regex');
 
-require('unicode-2.0.14/categories/Zl/code-points');
-require('unicode-2.0.14/categories/Zl/symbols');
-require('unicode-2.0.14/categories/Zl/regex');
+require('unicode-2.0.14/categories/Titlecase_Letter/code-points');
+require('unicode-2.0.14/categories/Titlecase_Letter/symbols');
+require('unicode-2.0.14/categories/Titlecase_Letter/regex');
 
-require('unicode-2.0.14/categories/Zp/code-points');
-require('unicode-2.0.14/categories/Zp/symbols');
-require('unicode-2.0.14/categories/Zp/regex');
+require('unicode-2.0.14/categories/Unassigned/code-points');
+require('unicode-2.0.14/categories/Unassigned/symbols');
+require('unicode-2.0.14/categories/Unassigned/regex');
 
-require('unicode-2.0.14/categories/Zs/code-points');
-require('unicode-2.0.14/categories/Zs/symbols');
-require('unicode-2.0.14/categories/Zs/regex');
+require('unicode-2.0.14/categories/Uppercase_Letter/code-points');
+require('unicode-2.0.14/categories/Uppercase_Letter/symbols');
+require('unicode-2.0.14/categories/Uppercase_Letter/regex');
 
 // bidi classes:
 
