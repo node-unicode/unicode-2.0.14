@@ -1,6 +1,6 @@
 {
 	"name": "@unicode/unicode-2.0.14",
-	"version": "1.6.3",
+	"version": "1.6.4",
 	"description": "JavaScript-compatible Unicode data. Arrays of code points, arrays of symbols, and regular expressions for Unicode v2.0.14’s categories, scripts, blocks, bidi, and other properties.",
 	"homepage": "https://github.com/node-unicode/unicode-2.0.14",
 	"main": "index.js",
