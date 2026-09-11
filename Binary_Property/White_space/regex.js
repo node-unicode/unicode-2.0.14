@@ -1,1 +1,0 @@
-module.exports=/[\0\t-\r \xA0\u2000-\u200F\u2028-\u202E\u206A-\u206F\u3000\uFEFF]/
