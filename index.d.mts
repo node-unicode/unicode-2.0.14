@@ -4,3 +4,4 @@ export const Bidi_Class: string[];
 export const Block: string[];
 export const Names: string[];
 export const Simple_Case_Mapping: string[];
+export const Decomposition_Mapping: string[];
