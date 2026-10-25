@@ -1,7 +1,10 @@
-export const Binary_Property: string[];
-export const General_Category: string[];
-export const Bidi_Class: string[];
-export const Block: string[];
-export const Names: string[];
-export const Simple_Case_Mapping: string[];
-export const Decomposition_Mapping: string[];
+declare const data: {
+	readonly Binary_Property: string[];
+	readonly General_Category: string[];
+	readonly Bidi_Class: string[];
+	readonly Block: string[];
+	readonly Names: string[];
+	readonly Simple_Case_Mapping: string[];
+	readonly Decomposition_Mapping: string[];
+};
+export default data;
