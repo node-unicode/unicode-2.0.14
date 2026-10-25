@@ -1,1 +1,1 @@
-export default /[\uFE70-\uFEFF]/;
+export default /[\uFE70-\uFEFE]/;

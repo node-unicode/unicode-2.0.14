@@ -1,1 +1,1 @@
-export default /[\uFFF0-\uFFFF]/;
+export default /[\uFEFF\uFFF0-\uFFFF]/;

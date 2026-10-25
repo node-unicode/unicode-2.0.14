@@ -1,3 +1,3 @@
 import decodeRanges from '../../decode-ranges.mjs';
 
-export default decodeRanges('4P5wiP');
+export default decodeRanges('4P5wiO');

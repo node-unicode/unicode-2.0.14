@@ -215,9 +215,9 @@ import Terminal_PunctuationCodePoints from '@unicode/unicode-2.0.14/Binary_Prope
 import Terminal_PunctuationSymbols from '@unicode/unicode-2.0.14/Binary_Property/Terminal_Punctuation/symbols.mjs';
 import Terminal_PunctuationRegex from '@unicode/unicode-2.0.14/Binary_Property/Terminal_Punctuation/regex.mjs';
 
-import White_spaceCodePoints from '@unicode/unicode-2.0.14/Binary_Property/White_space/code-points.mjs';
-import White_spaceSymbols from '@unicode/unicode-2.0.14/Binary_Property/White_space/symbols.mjs';
-import White_spaceRegex from '@unicode/unicode-2.0.14/Binary_Property/White_space/regex.mjs';
+import White_SpaceCodePoints from '@unicode/unicode-2.0.14/Binary_Property/White_Space/code-points.mjs';
+import White_SpaceSymbols from '@unicode/unicode-2.0.14/Binary_Property/White_Space/symbols.mjs';
+import White_SpaceRegex from '@unicode/unicode-2.0.14/Binary_Property/White_Space/regex.mjs';
 
 import Zero_widthCodePoints from '@unicode/unicode-2.0.14/Binary_Property/Zero-width/code-points.mjs';
 import Zero_widthSymbols from '@unicode/unicode-2.0.14/Binary_Property/Zero-width/symbols.mjs';
@@ -645,6 +645,10 @@ import Miscellaneous_TechnicalCodePoints from '@unicode/unicode-2.0.14/Block/Mis
 import Miscellaneous_TechnicalSymbols from '@unicode/unicode-2.0.14/Block/Miscellaneous_Technical/symbols.mjs';
 import Miscellaneous_TechnicalRegex from '@unicode/unicode-2.0.14/Block/Miscellaneous_Technical/regex.mjs';
 
+import No_BlockCodePoints from '@unicode/unicode-2.0.14/Block/No_Block/code-points.mjs';
+import No_BlockSymbols from '@unicode/unicode-2.0.14/Block/No_Block/symbols.mjs';
+import No_BlockRegex from '@unicode/unicode-2.0.14/Block/No_Block/regex.mjs';
+
 import Number_FormsCodePoints from '@unicode/unicode-2.0.14/Block/Number_Forms/code-points.mjs';
 import Number_FormsSymbols from '@unicode/unicode-2.0.14/Block/Number_Forms/symbols.mjs';
 import Number_FormsRegex from '@unicode/unicode-2.0.14/Block/Number_Forms/regex.mjs';
@@ -692,6 +696,28 @@ import ThaiRegex from '@unicode/unicode-2.0.14/Block/Thai/regex.mjs';
 import TibetanCodePoints from '@unicode/unicode-2.0.14/Block/Tibetan/code-points.mjs';
 import TibetanSymbols from '@unicode/unicode-2.0.14/Block/Tibetan/symbols.mjs';
 import TibetanRegex from '@unicode/unicode-2.0.14/Block/Tibetan/regex.mjs';
+
+// `Joining_Type`:
+
+import Dual_JoiningCodePoints from '@unicode/unicode-2.0.14/Joining_Type/Dual_Joining/code-points.mjs';
+import Dual_JoiningSymbols from '@unicode/unicode-2.0.14/Joining_Type/Dual_Joining/symbols.mjs';
+import Dual_JoiningRegex from '@unicode/unicode-2.0.14/Joining_Type/Dual_Joining/regex.mjs';
+
+import Join_CausingCodePoints from '@unicode/unicode-2.0.14/Joining_Type/Join_Causing/code-points.mjs';
+import Join_CausingSymbols from '@unicode/unicode-2.0.14/Joining_Type/Join_Causing/symbols.mjs';
+import Join_CausingRegex from '@unicode/unicode-2.0.14/Joining_Type/Join_Causing/regex.mjs';
+
+import Non_JoiningCodePoints from '@unicode/unicode-2.0.14/Joining_Type/Non_Joining/code-points.mjs';
+import Non_JoiningSymbols from '@unicode/unicode-2.0.14/Joining_Type/Non_Joining/symbols.mjs';
+import Non_JoiningRegex from '@unicode/unicode-2.0.14/Joining_Type/Non_Joining/regex.mjs';
+
+import Right_JoiningCodePoints from '@unicode/unicode-2.0.14/Joining_Type/Right_Joining/code-points.mjs';
+import Right_JoiningSymbols from '@unicode/unicode-2.0.14/Joining_Type/Right_Joining/symbols.mjs';
+import Right_JoiningRegex from '@unicode/unicode-2.0.14/Joining_Type/Right_Joining/regex.mjs';
+
+import TransparentCodePoints from '@unicode/unicode-2.0.14/Joining_Type/Transparent/code-points.mjs';
+import TransparentSymbols from '@unicode/unicode-2.0.14/Joining_Type/Transparent/symbols.mjs';
+import TransparentRegex from '@unicode/unicode-2.0.14/Joining_Type/Transparent/regex.mjs';
 
 // `Simple_Case_Mapping`:
 
